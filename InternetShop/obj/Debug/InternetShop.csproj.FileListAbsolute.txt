@@ -1,0 +1,38 @@
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\Debug\InternetShop.exe.config
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\Debug\InternetShop.exe
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\Debug\InternetShop.pdb
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\Debug\EntityFramework.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\Debug\EntityFramework.xml
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\obj\Debug\InternetShop.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\obj\Debug\InternetShop.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\obj\Debug\InternetShop.csproj.CopyComplete
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\obj\Debug\InternetShop.exe
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\obj\Debug\InternetShop.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\obj\Debug\InternetShop.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\obj\Debug\InternetShop.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\obj\Debug\InternetShop.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\obj\Debug\InternetShop.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\bin\Debug\InternetShop.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\bin\Debug\InternetShop.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\bin\Debug\InternetShop.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\bin\Debug\EntityFramework.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\bin\Debug\EntityFramework.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\bin\Debug\ru\EntityFramework.resources.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\bin\Debug\InternetShop.exe.config
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\bin\Debug\InternetShop.exe
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\bin\Debug\InternetShop.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\bin\Debug\EntityFramework.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\bin\Debug\EntityFramework.xml
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\bin\Debug\ru\EntityFramework.resources.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\obj\Debug\InternetShop.csprojAssemblyReference.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\obj\Debug\InternetShop.csproj.CoreCompileInputs.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\obj\Debug\InternetShop.csproj.CopyComplete
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\obj\Debug\InternetShop.exe
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\InternetShop\InternetShop\obj\Debug\InternetShop.pdb
